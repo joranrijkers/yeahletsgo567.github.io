@@ -9,8 +9,17 @@ ul {
     align-content: center;
 }
 
+li {
+    float: left;
+    
+}
+
 li a {
     color: red;
     text-decoration: none;
+    display: block;
+    padding: 10px;
+    background-color: grey;
+
 
 }
